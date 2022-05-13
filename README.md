@@ -6,17 +6,34 @@ LEMP Stack is Open source software for website with Docker
 * M = MariaDB or MongoDB -> database
 * P = PHP, NodeJS
 
+# Create work
 
-# Create folder
-
+**Create folder**
 mkdir html nginx mariadb
 
-# Config Nginx
+**Create file config in folder nginx**
 
-'''conf
-#defale.config
 
-'''
+**Create index.php or add code php to file index.php**
+
+
+**Create docker-compose.yml**
+
+
+# Run Docker
+
+- create container, network and build image
+
+- check container
+
+- delete container
+
+
+
+
+
+
+
 
 
 
