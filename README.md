@@ -7,11 +7,16 @@ LEMP Stack is Open source software for website with Docker
 * P = PHP, NodeJS
 
 
-**Create folder**
+# Create folder
 
 mkdir html nginx mariadb
 
-**Create folder and file config - Nginx**
+# Config Nginx
+
+'''conf
+#defale.config
+
+'''
 
 
 
